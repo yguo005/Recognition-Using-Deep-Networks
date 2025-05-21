@@ -7,9 +7,9 @@
     - PyTorch (torch): [Specify version, e.g., 1.13.1]
     - Torchvision: [Specify version, e.g., 0.14.1]
     - Matplotlib: [Specify version, e.g., 3.6.2]
-    - OpenCV (cv2): [Specify version, e.g., 4.6.0] (primarily for Task 2B - filter2D, and potentially image loading/preprocessing)
+    - OpenCV (cv2): [Specify version, e.g., 4.6.0] (primarily for Task 2B - filter2D, and image loading/preprocessing)
     - NumPy: [Specify version, e.g., 1.23.5]
-    - ImageMagick (if used for Task 1F preprocessing - mention system-level tool)
+    - ImageMagick (used for Task 1F preprocessing)
 
 ---
 
